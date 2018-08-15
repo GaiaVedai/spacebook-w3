@@ -1,0 +1,12 @@
+.comments-container {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+  .close {
+    float: none;
+    margin: 0 15px;
+    font-size: 15px;
+  }
